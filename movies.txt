@@ -1,0 +1,7 @@
+ET:(2000,ufo)
+007:(2000,gun)
+Star wars:(2000,comic)
+Ave:(2000,comic)
+Indiana Jones:(2000,comic)
+Back to future:(2000,comic)
+Forest Gump:(2001,comic)
